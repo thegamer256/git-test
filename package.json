@@ -1,0 +1,25 @@
+{
+  "name": "fer201m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegamer256/git-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegamer256/git-test/issues"
+  },
+  "homepage": "https://github.com/thegamer256/git-test#readme",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "lite-server": "^2.6.1"
+  }
+}
